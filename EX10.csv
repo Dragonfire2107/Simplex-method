@@ -1,0 +1,12 @@
+Section,x1,x2,x3,x4,x5,Inequality,RHS,Objective
+Objective,3,2,4,1,5,,,"Max"
+Constraint1,1,0,2,1,0,<=,10,
+Constraint2,-1,1,-1,0,2,<=,5,
+Constraint3,2,-1,0,3,-2,<=,15,
+Constraint4,0,2,3,-1,1,<=,12,
+Constraint5,3,-3,1,2,-2,<=,18,
+Constraint6,-1,1,-2,1,0,<=,6,
+Constraint7,2,-1,1,0,3,<=,20,
+Constraint8,-2,2,1,-2,-1,<=,25,
+Constraint9,1,0,1,2,1,<=,10,
+Constraint10,0,3,-1,2,1,<=,8
